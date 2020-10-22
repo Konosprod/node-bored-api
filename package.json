@@ -1,0 +1,19 @@
+{
+  "name": "bored-api",
+  "version": "0.0.0",
+  "description": "Boredapi implementation",
+  "main": "boredapi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Konosprod/node-bored-api.git"
+  },
+  "author": "konosprod",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Konosprod/node-bored-api/issues"
+  },
+  "homepage": "https://github.com/Konosprod/node-bored-api#readme"
+}
